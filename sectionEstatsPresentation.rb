@@ -43,7 +43,7 @@ def saveMessagesToCSV
 end
 
 def getMembers
-  var =  "https://v2.groupme.com/groups/15738000?token=Kb8bRX85yYcAVFIcfWcvhX5ArEmiHLteHYf0RBud"
+  var =  "https://v2.groupme.com/groups/+" INSERT GROUP NUMBER HERE ?token= INSERT TOKEN HERE"
   uri = URI.parse(var)
   response = Net::HTTP.get_response(uri)
 
