@@ -4,7 +4,7 @@ Learn how to hack your section's GroupMe. Who gives out the most hearts in your 
 It's a slippery slope after that... Remember those reckless jokes you made about your FRC professors? Yes, they are coming back to haunt you.
 
 # Sample App 
-For instance, you could create an app like Pensive ([demo](https://inchuition.com/pensieve)) using Groupme APIs. One of our CODE members, [Inchara Shivalingaiah](https://github.com/inchara/), built it and you can check out her source code (https://github.com/inchara/groupmeflashback). Look for groupmeparse.js which contains most of the API logic. If you have ideas for the app, submit a pull request!
+For instance, you could create an app like Pensieve ([demo](https://inchuition.com/pensieve)) using Groupme APIs. One of our CODE members, [Inchara Shivalingaiah](https://github.com/inchara/), built it and you can check out her source code (https://github.com/inchara/groupmeflashback). Look for groupmeparse.js which contains most of the API logic. If you have ideas for the app, submit a pull request!
 
 # Steps to create an app
 
