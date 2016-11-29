@@ -8,6 +8,7 @@ For instance, you could create an app like this - https://inchuition.com/pensiev
 https://github.com/inchara/groupmeflashback (Look for groupmeparse.js which contains most of the API logic)
 
 # Steps to create an app
+
 ## Step 1
 Go to the [GroupMe](http://groupme.com) website for your group
 
